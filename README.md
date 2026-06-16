@@ -255,7 +255,7 @@ Run all notebook cells to perform:
 ---
 
 ### 📷 Project Screenshots
-![Customer Dashboard](main/picture.png)
+<img width="1916" height="993" alt="Screenshot 2025-11-22 002116" src="main/picture" />
 
 
 ## 👨‍💻 Author
