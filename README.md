@@ -255,8 +255,7 @@ Run all notebook cells to perform:
 ---
 
 ### 📷 Project Screenshots
-
-
+![Customer Dashboard](main/picture.png)
 
 
 ## 👨‍💻 Author
